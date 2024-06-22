@@ -9,7 +9,7 @@ I'm a Senior Student of BIS Faculty of commerce - Assiut Uni.
 - 📫 How to reach me:
 
  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khadija-ashry/)
-  [!["Facebook"]([https://img.shields.io/badge/Medium-12100E?style=flat&logo==linkedin&labelColor=blue)](https://www.facebook.com/profile.php?id=100009146623866&mibextid=LQQJ4d))
-  [!["Instagram"]([https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/khadijalashry_))
-  [!["Twitter"]([https://img.shields.io/badge/Twitter-black)](https://x.com/KHO_KHA__))
+  [!["Facebook"]([https://img.shields.io/badge/facebook-blue?style=flat&logo==facebook&labelColor=blue)](https://www.facebook.com/profile.php?id=100009146623866&mibextid=LQQJ4d))
+  [!["Instagram"]([https://img.shields.io/badge/Instagram-purple?style=flat==instagram&labelColor=purple)](https://www.instagram.com/khadijalashry_))
+  [!["Twitter"]([https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&labelColor=black)](https://x.com/KHO_KHA__))
 
