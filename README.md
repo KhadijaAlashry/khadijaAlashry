@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Google Developer Expert ([GDE](https://developers.google.com/community/experts/directory/profile/profile-tarek-alabd)) for Flutter & Dart, and Subject-Matter Expert at [Variiance](https://variiance.com).
+I'm a Senior Student of BIS Faculty of commerce - Assiut Uni.
 
 
 - 🔭 I’m currently working on improving my skills.
