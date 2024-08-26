@@ -4,7 +4,7 @@
 - VO ( Arabic - English ).
 
 - 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently curious about mobile and frontend development.
+- 🌱 I’m currently curious about frontend development.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
 
