@@ -7,7 +7,7 @@
 - 🌱 Speaker Of FCEP Graduation Party -2023.
 - ✨ Speaker Of Closing SMS_AU Round5 -2022.
 - 🥋 Silver Medal In Hurghada International Traditional Karate -2016
-- 🥋 Participate I Africa Traditional Karate Championship -2014
+- 🥋 Participate In African Traditional Karate Championship -2014
 - 🌱 I’m currently curious about frontend development.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
