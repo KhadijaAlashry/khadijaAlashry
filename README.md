@@ -3,7 +3,11 @@
 - I'm a Senior Student of BIS Faculty of commerce - Assiut Uni.
 - VO ( Arabic - English ).
 
-- 🔭 I’m currently working on improving my skills.
+- ✨ Speaker Of Peoples Week Ceremony -2022
+- 🌱 Speaker Of FCEP Graduation Party -2023.
+- ✨ Speaker Of Closing SMS_AU Round5 -2022.
+- 🥋 Silver Medal In Hurghada International Traditional Karate -2016
+- 🥋 Participate I Africa Traditional Karate Championship -2014
 - 🌱 I’m currently curious about frontend development.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
